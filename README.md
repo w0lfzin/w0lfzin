@@ -2,7 +2,7 @@
 <p align="left"> 
   Olá! Me chamo <strong>Theo Tosto</strong><br>  
   Atualmente sou estudante de <strong>Engenharia de Software</strong> no Instituto de Tecnologia e Liderança (Inteli).  
-  Estou sempre em busca de novos aprendizados e desafios, com foco em desenvolvimento, boas práticas e soluções escaláveis.  
+  Estou sempre em busca de novos desafios, com foco em desenvolvimento, boas práticas e soluções escaláveis.  
 </p>
 
 
